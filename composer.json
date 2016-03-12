@@ -1,5 +1,5 @@
 {
-    "name": "lox/xhprof",
+    "name": "getintent/xhprof",
     "type": "library",
     "description": "XHProf: A Hierarchical Profiler for PHP",
     "keywords": ["profiling", "performance"],
